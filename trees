@@ -1,0 +1,6 @@
+    var tree = function (){
+            var catEl = document.createElement("img");
+            catEl.src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autumn_light_in_the_Sonian_Forest.jpg/800px-Autumn_light_in_the_Sonian_Forest.jpg";
+            catEl.alt = "Photo of cute cat";
+            document.body.appendChild(catEl);
+    }
