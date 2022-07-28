@@ -1,9 +1,4 @@
-/**
- * This function takes in a reference to a DOM element,
- * assumes each of its children are <img> tags,
- * and then makes a simple slideshow out of the images.
- * @param container A DOM element
- */
+//None of this code it mine. It was originally made by Pamela Fox.
 var slideShow = function(container) {
     this.images = [];
     this.curImage = 0;
